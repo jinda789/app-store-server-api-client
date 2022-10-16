@@ -3,7 +3,7 @@
     "description": "PHP client for App Store Server API.",
     "type": "library",
 	"keywords": ["apple", "app store", "app store server api", "itunes"],
-    "homepage": "https://github.com/nullform/app-store-server-api-client",
+    "homepage": "https://github.com/jinda789/app-store-server-api-client",
     "require": {
 		"php": "^7.2 || ^8.0",
         "ext-json": "*",
