@@ -9,7 +9,7 @@ Unoffical **PHP** client for [App Store Server API](https://developer.apple.com/
 ## Installation
 
 ```
-composer require nullform/app-store-server-api-client
+composer require jinda789/app-store-server-api-client
 ```
 
 ## Usage
